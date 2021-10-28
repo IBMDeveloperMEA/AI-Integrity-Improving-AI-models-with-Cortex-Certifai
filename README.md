@@ -1,4 +1,4 @@
-Workshop Resources
+# Workshop Resources
 Login/Sign Up for IBM Cloud: https://ibm.biz/BdfhxH/
 
 Hands-On Guide: https://github.com/IBMDeveloperMEA/AI-Integrity-Improving-AI-models-with-Cortex-Certifai/blob/main/README.md
@@ -8,6 +8,18 @@ Slides: https://github.com/IBMDeveloperMEA/AI-Integrity-Improving-AI-models-with
 Workshop Replay: https://www.crowdcast.io/e/integrityinai
 
 This Repo is for the upcoming webinar AI Integrity: Improving AI models with Cortex Certifai - Register for the live stream and access the replay – https://www.crowdcast.io/e/integrityinai
+
+
+# Prerequisites
+Sign-up/Login to IBM Cloud - https://ibm.biz/BdfhxH/
+
+If you are an existing user please login to IBM Cloud
+
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on IBM Cloud:
+1- Put your email and password.
+2- You get a verification link with the registered email to verify your account.
+3- Fill the personal information fields.
+** Please make sure you select the country you are in when asked at any step of the registration process.
 
 # Black box AI models explained using Cortex Certifai
 
