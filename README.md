@@ -16,9 +16,12 @@ Sign-up/Login to IBM Cloud - https://ibm.biz/BdfhxH/
 If you are an existing user please login to IBM Cloud
 
 And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on IBM Cloud:
-1- Put your email and password.
-2- You get a verification link with the registered email to verify your account.
-3- Fill the personal information fields.
+
+1. Put your email and password.
+
+2. You get a verification link with the registered email to verify your account.
+
+3. Fill the personal information fields.
 ** Please make sure you select the country you are in when asked at any step of the registration process.
 
 # Black box AI models explained using Cortex Certifai
