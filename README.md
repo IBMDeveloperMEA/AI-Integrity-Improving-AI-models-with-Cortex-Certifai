@@ -1,3 +1,12 @@
+Workshop Resources
+Login/Sign Up for IBM Cloud: https://ibm.biz/BdfhxH/
+
+Hands-On Guide: https://github.com/IBMDeveloperMEA/AI-Integrity-Improving-AI-models-with-Cortex-Certifai/blob/main/README.md
+
+Slides: https://github.com/IBMDeveloperMEA/AI-Integrity-Improving-AI-models-with-Cortex-Certifai
+
+Workshop Replay: https://www.crowdcast.io/e/integrityinai
+
 This Repo is for the upcoming webinar AI Integrity: Improving AI models with Cortex Certifai - Register for the live stream and access the replay – https://www.crowdcast.io/e/integrityinai
 
 # Black box AI models explained using Cortex Certifai
