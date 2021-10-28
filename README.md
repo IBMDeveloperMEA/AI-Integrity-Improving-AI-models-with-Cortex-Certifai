@@ -1,3 +1,5 @@
+This Repo is for the upcoming webinar AI Integrity: Improving AI models with Cortex Certifai - Register for the live stream and access the replay – https://www.crowdcast.io/e/integrityinai
+
 # Black box AI models explained using Cortex Certifai
 
 Explainability of AI models is a difficult task which is made simpler by Cortex Certifai. It evaluates AI models for robustness, fairness, and explainability, and allows users to compare different models or model versions for these qualities. Certifai can be applied to any black-box model including machine learning models, predictive models and works with a variety of input datasets.
@@ -63,11 +65,11 @@ Toolkit Edition: You can signup for free use of the Certifai Toolkit on the [Cog
 
 ## 1. Create an account with IBM Cloud
 
-Sign up for IBM [**Cloud**](https://console.bluemix.net/). By clicking on create a free account you will get 30 days trial account.
+Sign up for IBM [**Cloud**]( https://ibm.biz/BdfhxH/). By clicking on create a free account you will get 30 days trial account.
 
 ## 2. Create a new Watson Studio project
 
-Sign up for IBM's [Watson Studio](http://dataplatform.ibm.com/). 
+Sign up for IBM's [Watson Studio]( https://ibm.biz/BdfhxH/). 
 
 Click on New Project and select per below.
 
@@ -195,3 +197,13 @@ This code pattern will be very helpful for developers, machine learning engineer
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the Developer [Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
 
 Check the [ASL FAQ link](http://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN) for more details
+
+Thank you,
+
+Sbusiso Mkhombe
+
+Cloud Engineer, Hybrid Cloud Build Team
+
+IBM Technology Sales
+
+Sbusiso.Mkhombe@ibm.com
